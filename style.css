@@ -15,8 +15,10 @@
 }
 .main-content{
     background: greenyellow;
+    color: blue;
     flex: 1;
 }
 .music-player{
     background: blue;
+    position: fixed;
 }
