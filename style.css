@@ -71,3 +71,8 @@ a{
     height: 1.25rem;
     width: 1.25rem;
 }
+.library .option .icons{
+    font-size: 1.25rem;
+    opacity: 0.7;
+    margin-right: 1rem;
+}
